@@ -18,18 +18,18 @@ An interactive Python application that simulates and visualizes the motion of an
 - Export simulation data as CSV or plot image
 
 ## 🛠️ Tools & Libraries
-| Purpose                   | Tool/Library                       |
-| ------------------------- |------------------------------------|
-| Math                      | `numpy`                            |
-| Plotting                  | `matplotlib`                       |
-| Symbolic math (if needed) | `sympy`                            |
-| GUI (optional)            | `tkinter`                          |
-| Animation                 | `matplotlib.animation` or `pygame` |
-| Version Control           | `git + GitHub`                     |
+| Purpose                   | Tool/Library           |
+| ------------------------- |------------------------|
+| Math                      | `numpy`                |
+| Plotting                  | `matplotlib`           |
+| Symbolic math (if needed) | `sympy`                |
+| GUI (optional)            | `tkinter`              |
+| Animation                 | `matplotlib.animation` |
+| Version Control           | `git + GitHub`         |
 
 ## 📅 Timeline (Today–July 31, 2025)
 | Week          | Focus Area                  | Milestones                                                                                               |
-| ------------- | --------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ------------- | --------------------------- |----------------------------------------------------------------------------------------------------------|
 | Jun 12–Jun 18 | Research & Setup            | ✅ Understand equations of motion<br>✅ Define scope (2D vs 3D)<br>✅ Setup project environment             |
 | Jun 19–Jun 25 | Core Physics Implementation | ✅ Implement vertical free-fall & horizontal motion<br>✅ Integrate numerical solvers (Euler, Runge-Kutta) |
 | Jun 26–Jul 2  | Plotting & Visualization    | ✅ Create 2D motion plots with `matplotlib`<br>✅ Add basic animation                                      |
